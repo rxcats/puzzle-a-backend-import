@@ -1,0 +1,6 @@
+﻿// Firebase GetUser
+GET http://localhost:5000/FirebaseTest/GetUser?uid=KCR38J2PkSO7OcRvIgzqHTyMK713
+Content-Type: application/json
+
+###
+
